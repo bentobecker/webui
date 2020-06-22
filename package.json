@@ -2,7 +2,6 @@
     "name": "webui",
     "version": "0.0.2",
     "description": "Web UI",
-    "private": true,
     "license": "MIT",
     "cacheDirectories": [
         "node_modules"
